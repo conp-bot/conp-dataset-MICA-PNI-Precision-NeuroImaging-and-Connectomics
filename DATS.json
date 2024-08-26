@@ -1,0 +1,107 @@
+{
+    "title": "MICA-PNI: Precision NeuroImaging and Connectomics",
+    "creators": [
+        {
+            "name": "Donna Gift Cabalo"
+        },
+        {
+            "name": "Raul Rodriguez-Cruces"
+        },
+        {
+            "name": "Boris C. Bernhardt"
+        },
+        {
+            "name": "Jordan DeKraker"
+        },
+        {
+            "name": "Jessica Royer"
+        },
+        {
+            "name": "Ilana Leppert"
+        },
+        {
+            "name": "Risa Thevakumaran"
+        },
+        {
+            "name": "Youngeun Hwang"
+        },
+        {
+            "name": "Valeria Kebets"
+        },
+        {
+            "name": "Shahin Tavakol"
+        }
+    ],
+    "description": "The MICA-PNI dataset provides raw and anonymized multimodal precision neuroimaging data acquired at ultra-high field strength of 7Tesla, from 10 healthy individual participants. In this release, the dataset include MP2RAGE-derived uni, T1 map, DWI, MT on/off, T2*-weighted imaging and multi-echo resting state, multi-task-based and movie fMRI scans, acquired across three sessions.\n\n\nPlease cite: \nCabalo, D. G. et al. Multimodal Precision Neuroimaging of the Individual Human Brain at Ultra-high fields. bioRxiv, 2024.2006.2017.596303 (2024). https://doi.org/10.1101/2024.06.17.596303",
+    "version": "2024-08-06T19:59:37.183503",
+    "licenses": [
+        {
+            "name": "CC0 1.0 Universal"
+        }
+    ],
+    "dates": [
+        {
+            "date": "2024-01-17 18:30:29",
+            "type": {
+                "value": "date created"
+            }
+        },
+        {
+            "date": "2024-08-06 19:59:37",
+            "type": {
+                "value": "date modified"
+            }
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        }
+    ],
+    "distributions": [
+        {
+            "size": 351.2,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/mhq3f/",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://osf.io/static/img/institutions/shields/cos-shield.png"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "2056"
+                }
+            ]
+        }
+    ],
+    "identifier": {
+        "identifier": "10.17605/OSF.IO/MHQ3F",
+        "identifierSource": "OSF DOI"
+    },
+    "types": [
+        {
+            "value": "MRI"
+        },
+        {
+            "value": "fMRI"
+        }
+    ]
+}
